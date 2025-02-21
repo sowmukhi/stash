@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="657b4e01-b22d-40ad-9eb0-f447af45a5fb" name="Changes" comment="after commiting" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develop1" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "sowmukhi"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/sowmukhi/stash.git",
+    "accountId": "088793d9-cf56-44de-9b71-aca9bf88f478"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2tKtfFYLhjqniXq4mSNelYD3G4V" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "develop2",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/hp/IdeaProjects/stash"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="657b4e01-b22d-40ad-9eb0-f447af45a5fb" name="Changes" comment="" />
+      <created>1740112694739</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740112694739</updated>
+    </task>
+    <task id="LOCAL-00001" summary="added text in abc file">
+      <option name="closed" value="true" />
+      <created>1740113034980</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740113034980</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added text to abc file in dev2">
+      <option name="closed" value="true" />
+      <created>1740117336321</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1740117336321</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added text to abc file in dev1">
+      <option name="closed" value="true" />
+      <created>1740117469743</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1740117469743</updated>
+    </task>
+    <task id="LOCAL-00004" summary="after commiting">
+      <option name="closed" value="true" />
+      <created>1740118448618</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1740118448618</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added text in abc file" />
+    <MESSAGE value="added text to abc file in dev2" />
+    <MESSAGE value="added text to abc file in dev1" />
+    <MESSAGE value="changes" />
+    <MESSAGE value="Merge branch 'develop2' of https://github.com/sowmukhi/stash into develop1&#10;&#10;# Conflicts:&#10;#&#9;abc.txt" />
+    <MESSAGE value="after commiting" />
+    <option name="LAST_COMMIT_MESSAGE" value="after commiting" />
+  </component>
+</project>
